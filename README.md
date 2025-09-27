@@ -132,27 +132,27 @@ project-root/
 
 ## 📸 Screenshots
 
-*Moorgan Landing Page*
+*Now Playing Page*
 <p align="center">
   <img src="./screenshots/radan-now-playing.png" width="700">
 </p>
 
-*Moorgan Livestocks Marketplace*
+*Movide Detail Page*
 <p align="center">
   <img src="./screenshots/radan-movie-detail.png"  width="700">
 </p>
 
-*Moorgan Dashboard Overview*
+*Seat Selection Page*
 <p align="center">
   <img src="./screenshots/radan-seat-selection.png"  width="700">
 </p>
 
-*Moorgan Dashboard Overview*
+*Dashboard Theater Detail*
 <p align="center">
   <img src="./screenshots/radan-dashboard-theater-detail.png"  width="700">
 </p>
 
-*Moorgan Dashboard Overview*
+*Create Seat Layout Page*
 <p align="center">
   <img src="./screenshots/radan-create-layout.png"  width="700">
 </p>
