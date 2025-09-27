@@ -132,7 +132,30 @@ project-root/
 
 ## 📸 Screenshots
 
-*Add screenshots or GIFs of your app here.*
+*Moorgan Landing Page*
+<p align="center">
+  <img src="./screenshots/radan-now-playing.png" width="700">
+</p>
+
+*Moorgan Livestocks Marketplace*
+<p align="center">
+  <img src="./screenshots/radan-movie-detail.png"  width="700">
+</p>
+
+*Moorgan Dashboard Overview*
+<p align="center">
+  <img src="./screenshots/radan-seat-selection.png"  width="700">
+</p>
+
+*Moorgan Dashboard Overview*
+<p align="center">
+  <img src="./screenshots/radan-dashboard-theater-detail.png"  width="700">
+</p>
+
+*Moorgan Dashboard Overview*
+<p align="center">
+  <img src="./screenshots/radan-create-layout.png"  width="700">
+</p>
 
 ---
 
